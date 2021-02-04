@@ -1,0 +1,12 @@
+name: semifinal
+title: semifinal
+username:
+account: hientknguyen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3572666
+bundleId: 4174692
+url: https://hientknguyen.shinyapps.io/semifinal/
+when: 1612338195.18667
+asMultiple: FALSE
+asStatic: FALSE
