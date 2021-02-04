@@ -1,4 +1,4 @@
-# -ADB-Commodity-price-shocks-Vietnam-subnation-data
+# Tracing the domestic effects of commodity-price shocks: Evidence from Vietnamese provinces
 Objective and Purpose of the research
 The project will examine the province-specific responses of GDP growth and consumer price inflation to global commodity price shocks in Vietnam specifically. The analysis will account for the fiscal and monetary dimensions’ policy stance in tracing the shocks’ impacts from short-run (1-4 quarters) to intermediate (five years) run across regions within the country. The empirical framework and lessons learned from the project will improve the understanding of the sub-national dynamics of macroeconomic aggregates to the external factors.
 
